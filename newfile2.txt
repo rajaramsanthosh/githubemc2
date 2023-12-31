@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 created newfile2
+=======
+created newfile2.txt
+>>>>>>> gitbranch2
